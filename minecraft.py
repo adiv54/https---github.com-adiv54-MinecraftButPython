@@ -19,5 +19,5 @@ def input(key):
             if key == 'right mouse down':
                 boxes.remove(box)
                 destroy(box)
-
+ 
 app.run()
